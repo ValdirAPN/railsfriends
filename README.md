@@ -1,24 +1,6 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This code was written during the Ruby on Rails course promoted by freecodecamp on it's Youtube channel.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+#Learn Ruby on Rails - Full Course
+https://www.youtube.com/watch?v=fmyvWz5TUWg
